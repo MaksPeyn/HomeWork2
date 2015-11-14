@@ -1,0 +1,9 @@
+c:\users\максим\documents\visual studio 2015\Projects\MITA\Автошкола\bin\Debug\Автошкола.exe.config
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.AUTO\Автошкола\bin\Debug\Автошкола.exe.config
+C:\Users\Максим\Desktop\MITA.AUTO\Автошкола\bin\Debug\Автошкола.exe
+C:\Users\Максим\Desktop\MITA.AUTO\Автошкола\bin\Debug\Автошкола.pdb
+C:\Users\Максим\Desktop\MITA.AUTO\Автошкола\bin\Debug\Domain.exe
+C:\Users\Максим\Desktop\MITA.AUTO\Автошкола\bin\Debug\Domain.pdb
+C:\Users\Максим\Desktop\MITA.AUTO\Автошкола\obj\Debug\Автошкола.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\MITA.AUTO\Автошкола\obj\Debug\Автошкола.exe
+C:\Users\Максим\Desktop\MITA.AUTO\Автошкола\obj\Debug\Автошкола.pdb

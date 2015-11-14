@@ -1,0 +1,5 @@
+C:\Users\Максим\Desktop\MITA.AUTO\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\MITA.AUTO\Domain\bin\Debug\Domain.exe
+C:\Users\Максим\Desktop\MITA.AUTO\Domain\bin\Debug\Domain.pdb
+C:\Users\Максим\Desktop\MITA.AUTO\Domain\obj\Debug\Domain.exe
+C:\Users\Максим\Desktop\MITA.AUTO\Domain\obj\Debug\Domain.pdb
